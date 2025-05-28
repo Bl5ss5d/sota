@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/sotavirtual/static/css/main.31d6cfe0.css",
+    "main.js": "/sotavirtual/static/js/main.ae225443.js",
+    "index.html": "/sotavirtual/index.html",
+    "main.ae225443.js.map": "/sotavirtual/static/js/main.ae225443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ae225443.js"
+  ]
+}
